@@ -7,5 +7,11 @@ namespace HelloWorld.Model
 {
     public class Class1
     {
+        public string HelloText { get; set; }
+
+        public Class1()
+        {
+            HelloText = "Hello!";
+        }
     }
 }
