@@ -1,0 +1,7 @@
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\bin\Debug\HelloWorld.View.exe
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\bin\Debug\HelloWorld.View.pdb
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\obj\Debug\HelloWorld.View.Properties.Resources.resources
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\obj\Debug\HelloWorld.View.csproj.GenerateResource.Cache
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\obj\Debug\HelloWorld.View.exe
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.View\obj\Debug\HelloWorld.View.pdb

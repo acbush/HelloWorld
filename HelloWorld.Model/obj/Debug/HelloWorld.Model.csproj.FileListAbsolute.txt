@@ -1,0 +1,5 @@
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Model\bin\Debug\HelloWorld.Model.dll
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Model\bin\Debug\HelloWorld.Model.pdb
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Model\obj\Debug\HelloWorld.Model.dll
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Model\obj\Debug\HelloWorld.Model.pdb
