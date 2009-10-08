@@ -1,6 +1,6 @@
 ﻿namespace HelloWorld.View
 {
-    partial class Form1
+    partial class MainView
     {
         /// <summary>
         /// Required designer variable.

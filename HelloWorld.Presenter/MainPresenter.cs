@@ -5,7 +5,7 @@ using System.Text;
 
 namespace HelloWorld.Presenter
 {
-    public class Class1
+    public class MainPresenter
     {
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Presenter\bin\Debug\HelloWorld.Presenter.dll
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Presenter\bin\Debug\HelloWorld.Presenter.pdb
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Presenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Presenter\obj\Debug\HelloWorld.Presenter.dll
+C:\Users\Andy\nbdn\git\HelloWorld\HelloWorld.Presenter\obj\Debug\HelloWorld.Presenter.pdb

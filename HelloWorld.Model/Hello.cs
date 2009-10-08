@@ -5,12 +5,12 @@ using System.Text;
 
 namespace HelloWorld.Model
 {
-    public class Class1
+    public class Hello
     {
         public string HelloText { get; set; }
 
         //Comment
-        public Class1()
+        public Hello()
         {
             HelloText = "Hello!";
         }
