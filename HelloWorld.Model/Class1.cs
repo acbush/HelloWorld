@@ -9,6 +9,7 @@ namespace HelloWorld.Model
     {
         public string HelloText { get; set; }
 
+        //Comment
         public Class1()
         {
             HelloText = "Hello!";
